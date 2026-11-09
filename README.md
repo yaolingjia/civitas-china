@@ -85,8 +85,8 @@ GitHub Pages is enough for a permanent brochure site with zero cost.
 
 ## Brand / legal notes for editors
 
-- Civitas China is **independent** — do not claim to be DAHLIN Group.
-- DAHLIN China projects are **team collaboration credentials** only.
+- Civitas China is an **independent** California-registered company with a Beijing delivery studio.
+- Frame credentials as **China–U.S. / U.S.–China collaboration projects** — do not name other firms.
 - Contact email on the site: `yaolingjia@126.com`
 - Do not invent phone numbers or street addresses.
 - Services exclude Construction Documents (CD).
